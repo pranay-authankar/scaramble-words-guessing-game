@@ -1,7 +1,7 @@
 def scramble_words_game():
     word1 = "aeroplane"
     scrm1 = ["erplaoena", "arlaeneop", "eraoelapn"]
-    hint1 = ["9/11", "Flies in the sky", "Have wings"]
+    hint1 = ["Aviation", "Flies in the sky", "Have wings"]
 
     word2 = "gate"
     scrm2 = ["tega", "egat", "gtea"]
