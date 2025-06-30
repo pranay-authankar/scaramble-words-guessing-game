@@ -12,15 +12,14 @@ The player gets 3 chances with different scrambled versions and hints to guess t
 If all 3 chances are used without a correct guess, the correct answer is revealed.
 
 🔧 Features
-🧩 Scrambled words with progressive hints
+- Scrambled words with progressive hints
 
-🎯 3 chances per word to guess
+-  chances per word to guess
 
-🗣️ Encouraging messages based on number of attempts
+- Encouraging messages based on number of attempts
 
-🧍 Organiser-controlled selection for multi-player use
+- Organiser-controlled selection for multi-player use
 
-🛠️ Built With
+> Built With
 Python 3.x
-
 No external libraries
